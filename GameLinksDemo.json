@@ -1,0 +1,166 @@
+{
+    "Dark Souls Remastered": {
+        "Armor": [
+            "https://darksouls.wiki.fextralife.com/Wanderer+Hood",
+            "https://darksouls.wiki.fextralife.com/Thief+Mask",
+            "https://darksouls.wiki.fextralife.com/Wanderer+Coat",
+            "https://darksouls.wiki.fextralife.com/Black+Leather+Armor",
+            "https://darksouls.wiki.fextralife.com/Wanderer+Manchette",
+            "https://darksouls.wiki.fextralife.com/Black+Leather+Gloves",
+            "https://darksouls.wiki.fextralife.com/Wanderer+Boots",
+            "https://darksouls.wiki.fextralife.com/Black+Leather+Boots"
+        ],
+        "Weapons": [
+            "https://darksouls.wiki.fextralife.com/Dagger",
+            "https://darksouls.wiki.fextralife.com/Ghost+Blade",
+            "https://darksouls.wiki.fextralife.com/Straight+Sword+Hilt",
+            "https://darksouls.wiki.fextralife.com/Broken+Straight+Sword"
+        ],
+        "Bosses": [
+            "https://darksouls.wiki.fextralife.com/Asylum+Demon",
+            "https://darksouls.wiki.fextralife.com/Bell+Gargoyle",
+            "https://darksouls.wiki.fextralife.com/Black+Hydra",
+            "https://darksouls.wiki.fextralife.com/Black+Phantom",
+            "https://darksouls.wiki.fextralife.com/Artorias+the+Abysswalker",
+            "https://darksouls.wiki.fextralife.com/Black+Dragon+Kalameet"
+        ]
+    },
+    "Dark Souls 2": {
+        "Armor": [
+            "https://darksouls2.wiki.fextralife.com/Alonne+Captain+Helm",
+            "https://darksouls2.wiki.fextralife.com/Alonne+Knight+Helm",
+            "https://darksouls2.wiki.fextralife.com/Agdayne's+Black+Robe",
+            "https://darksouls2.wiki.fextralife.com/Alonne+Captain+Armor",
+            "https://darksouls2.wiki.fextralife.com/Agdayne%27s+Black+Gloves",
+            "https://darksouls2.wiki.fextralife.com/Alonne+Captain+Gauntlets",
+            "https://darksouls2.wiki.fextralife.com/Agdayne%27s+Black+Kilt",
+            "https://darksouls2.wiki.fextralife.com/Alonne+Captain+Leggings"
+        ],
+        "Weapons": [
+            "https://darksouls2.wiki.fextralife.com/Acid+Surge",
+            "https://darksouls2.wiki.fextralife.com/Aged+Smelter+Sword",
+            "https://darksouls2.wiki.fextralife.com/Dagger",
+            "https://darksouls2.wiki.fextralife.com/Royal+Dirk",
+            "https://darksouls2.wiki.fextralife.com/Shortsword",
+            "https://darksouls2.wiki.fextralife.com/Longsword"
+        ],
+        "Bosses": [
+            "https://darksouls2.wiki.fextralife.com/The+Last+Giant",
+            "https://darksouls2.wiki.fextralife.com/The+Pursuer",
+            "https://darksouls2.wiki.fextralife.com/Elana,+Squalid+Queen",
+            "https://darksouls2.wiki.fextralife.com/Sinh,+the+Slumbering+Dragon"
+        ]
+    },
+    "Dark Souls 3": {
+        "Armor": [
+            "https://darksouls3.wiki.fextralife.com/Standard+Helm",
+            "https://darksouls3.wiki.fextralife.com/Brigand+Hood",
+            "https://darksouls3.wiki.fextralife.com/Hard+Leather+Armor",
+            "https://darksouls3.wiki.fextralife.com/Brigand+Armor",
+            "https://darksouls3.wiki.fextralife.com/Hard+Leather+Gauntlets",
+            "https://darksouls3.wiki.fextralife.com/Brigand+Gauntlets",
+            "https://darksouls3.wiki.fextralife.com/Hard+Leather+Boots",
+            "https://darksouls3.wiki.fextralife.com/Brigand+Trousers"
+        ],
+        "Weapons": [
+            "https://darksouls3.wiki.fextralife.com/Dagger",
+            "https://darksouls3.wiki.fextralife.com/Parrying+Dagger",
+            "https://darksouls3.wiki.fextralife.com/Shortsword",
+            "https://darksouls3.wiki.fextralife.com/Long+Sword",
+            "https://darksouls3.wiki.fextralife.com/Bastard+Sword",
+            "https://darksouls3.wiki.fextralife.com/Claymore"
+        ],
+        "Bosses": [
+            "https://darksouls3.wiki.fextralife.com/Iudex+Gundyr",
+            "https://darksouls3.wiki.fextralife.com/Vordt+of+the+Boreal+Valley",
+            "https://darksouls3.wiki.fextralife.com/Sister+Friede",
+            "https://darksouls3.wiki.fextralife.com/Champion's+Gravetender+&+Gravetender+Greatwolf",
+            "https://darksouls3.wiki.fextralife.com/Demon+in+Pain+&+Demon+From+Below",
+            "https://darksouls3.wiki.fextralife.com/Halflight,+Spear+of+the+Church",
+            "https://darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight",
+            "https://darksouls3.wiki.fextralife.com/Boreal+Outrider+Knight"
+        ]
+    },
+    "Bloodborne": {
+        "Armor": [
+            "https://bloodborne.wiki.fextralife.com/Beak+Mask",
+            "https://bloodborne.wiki.fextralife.com/Black+Church+Hat",
+            "https://bloodborne.wiki.fextralife.com/Ashen+Hunter+Garb",
+            "https://bloodborne.wiki.fextralife.com/Beast+Hide+Garb",
+            "https://bloodborne.wiki.fextralife.com/Ashen+Hunter+Gloves",
+            "https://bloodborne.wiki.fextralife.com/Bloodied+Arm+Bands",
+            "https://bloodborne.wiki.fextralife.com/Arianna%27s+Shoes",
+            "https://bloodborne.wiki.fextralife.com/Ashen+Hunter+Trousers"
+        ],
+        "Weapons": [
+            "https://bloodborne.wiki.fextralife.com/Amygdalan+Arm",
+            "https://bloodborne.wiki.fextralife.com/Beast+Claw",
+            "https://bloodborne.wiki.fextralife.com/Accursed+Brew",
+            "https://bloodborne.wiki.fextralife.com/Beast+Roar",
+            "https://bloodborne.wiki.fextralife.com/Amygdalan+Arm",
+            "https://bloodborne.wiki.fextralife.com/Beasthunter+Saif"
+        ],
+        "Bosses": [
+            "https://bloodborne.wiki.fextralife.com/Amygdala",
+            "https://bloodborne.wiki.fextralife.com/Blood-Starved+Beast",
+            "https://bloodborne.wiki.fextralife.com/Ludwig",
+            "https://bloodborne.wiki.fextralife.com/Orphan+of+Kos"
+        ]
+    },
+    "Sekiro": {
+        "Prosthetic": [
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/Loaded+Shuriken",
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/Flame+Vent"
+        ],
+        "Bosses": [
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/Gyoubu+Oniwa",
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/Lady+Butterfly",
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/Leader+Shigenori+Yamauchi",
+            "https://sekiroshadowsdietwice.wiki.fextralife.com/General+Naomori+Kawarada"
+        ]
+    },
+    "Elden Ring": {
+        "Armor": [
+            "https://eldenring.wiki.fextralife.com/Alberich's+Pointed+Hat",
+            "https://eldenring.wiki.fextralife.com/Alberich's+Pointed+Hat+(Altered)",
+            "https://eldenring.wiki.fextralife.com/All-Knowing+Armor",
+            "https://eldenring.wiki.fextralife.com/Alberich's+Robe",
+            "https://eldenring.wiki.fextralife.com/Alberich's+Bracers",
+            "https://eldenring.wiki.fextralife.com/All-Knowing+Gauntlets",
+            "https://eldenring.wiki.fextralife.com/All-Knowing+Greaves",
+            "https://eldenring.wiki.fextralife.com/Alberich's+Trousers"
+        ],
+        "Weapons": [
+            "https://eldenring.wiki.fextralife.com/Devourer's+Scepter",
+            "https://eldenring.wiki.fextralife.com/Grafted+Blade+Greatsword",
+            "https://eldenring.wiki.fextralife.com/Dagger",
+            "https://eldenring.wiki.fextralife.com/Parrying+Dagger",
+            "https://eldenring.wiki.fextralife.com/Short+Sword",
+            "https://eldenring.wiki.fextralife.com/Longsword"
+        ],
+        "Bosses": [
+            "https://eldenring.wiki.fextralife.com/Godrick+the+Grafted",
+            "https://eldenring.wiki.fextralife.com/Rennala,+Queen+of+the+Full+Moon",
+            "https://eldenring.wiki.fextralife.com/Cemetery+Shade",
+            "https://eldenring.wiki.fextralife.com/Ancestor+Spirit",
+            "https://eldenring.wiki.fextralife.com/Mad+Pumpkin+Head",
+            "https://eldenring.wiki.fextralife.com/Erdtree+Burial+Watchdog"
+        ]
+    },
+    "Lies of P": {
+        "Weapons": [
+            "https://liesofp.wiki.fextralife.com/Acidic+Crystal+Spear+Blade",
+            "https://liesofp.wiki.fextralife.com/Acidic+Great+Curved+Sword+Blade",
+            "https://liesofp.wiki.fextralife.com/Acidic+Crystal+Spear+Handle",
+            "https://liesofp.wiki.fextralife.com/Acidic+Great+Curved+Sword+Handle",
+            "https://liesofp.wiki.fextralife.com/Etiquette",
+            "https://liesofp.wiki.fextralife.com/Frozen+Feast"
+        ],
+        "Bosses": [
+            "https://liesofp.wiki.fextralife.com/Parade+Master",
+            "https://liesofp.wiki.fextralife.com/Scrapped+Watchman",
+            "https://liesofp.wiki.fextralife.com/Mad+Donkey",
+            "https://liesofp.wiki.fextralife.com/Puppet+of+the+Future"
+        ]
+    }
+}
