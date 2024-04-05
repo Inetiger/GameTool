@@ -1,0 +1,74 @@
+﻿<Window x:Class="GameTool.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GameTool"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="Black" BorderThickness="1">
+                <StackPanel Grid.Column="0">
+                    <TextBlock Name="GameName" Text="" HorizontalAlignment="Center" FontSize="20" Margin="0,5,0,0"/>
+                    <Button Content="Armor" Name="Armor" Height="35" Margin="10" Click="Section_Click"/>
+                    <Button Content="Weapons" Name="Weapons" Height="35" Margin="10" Click="Section_Click"/>
+                    <Button Content="Bosses" Name="Bosses" Height="35" Margin="10" Click="Section_Click"/>
+                </StackPanel>
+            </Border>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border BorderBrush="Black" BorderThickness="1">
+                    <Menu Background="White">
+                        <MenuItem Background="LightGray" Header="Filter" Height="25" BorderBrush="DarkGray">
+                            <MenuItem Header="Helms" IsCheckable="True" StaysOpenOnClick="True"/>
+                            <MenuItem Header="Chests" IsCheckable="True" StaysOpenOnClick="True"/>
+                            <MenuItem Header="Gauntlets" IsCheckable="True" StaysOpenOnClick="True"/>
+                            <MenuItem Header="Legs" IsCheckable="True" StaysOpenOnClick="True"/>
+                        </MenuItem>
+                    </Menu>
+                </Border>
+                <ScrollViewer Grid.Row="1">
+                    <Border Grid.Row="1" BorderBrush="Black" BorderThickness="1">
+                        <WrapPanel>
+                            <Button Name="SectionItems1" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems2" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems3" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems4" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems5" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems6" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems7" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems8" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems9" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                            <Button Name="SectionItems10" Content="Armor" Margin="10" Width="235" Height="50" Click="SectionItems_Click"/>
+                        </WrapPanel>
+                    </Border>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+        <Border BorderBrush="Black" BorderThickness="1">
+            <Menu Background="White">
+                <MenuItem Background="LightGray" Header="Game" Height="25" BorderBrush="DarkGray">
+                    <MenuItem Header="Dark Souls Remastered" Name="Dark_Souls_Remastered" Click="MenuItem_Click"/>
+                    <MenuItem Header="Dark Souls 2" Name="Dark_Souls_2" Click="MenuItem_Click"/>
+                    <MenuItem Header="Dark Souls 3" Name="Dark_Souls_3" Click="MenuItem_Click"/>
+                    <MenuItem Header="Bloodborne" Name="Bloodborne" Click="MenuItem_Click"/>
+                    <MenuItem Header="Sekiro" Name="Sekiro" Click="MenuItem_Click"/>
+                    <MenuItem Header="Elden Ring" Name="Elden_Ring" Click="MenuItem_Click"/>
+                    <MenuItem Header="Lies of P" Name="Lies_of_P" Click="MenuItem_Click"/>
+                </MenuItem>
+            </Menu>
+        </Border>
+    </Grid>
+</Window>
